@@ -1,0 +1,30 @@
+/*
+
+  selector {
+    property: value;
+  }
+
+  
+ */
+
+ body {
+    font-family: Georgia, Times, serif;
+    color: #444;
+    width: 500px;
+    margin: 0 auto;
+  }
+
+p {
+  font-family: Times;
+  color: purple;
+}
+
+#intro {
+  font-size: 150%;
+  color: blue;
+}
+
+h1 {
+  font-size: 200%;
+  color: blue;
+}
